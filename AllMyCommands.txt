@@ -1,0 +1,21 @@
+	.	 git init: creates a new Git repository
+	.	git status: show the working tree status 
+	.	git add: git everything ready to commit
+	.	git commit -m changes ”Message”: commit changes and add
+       a descriptive message
+	.	git rm (file name): removes/deletes file from git
+	.	git log: shows all commits
+	.	git revert: undos the most recent commit
+	.	git remote add origin: push an existing repository from
+        the command line/terminal 
+	.	git remote -v: shows remote repositories
+	.	git push -u origin master: pushes local repository to 
+       remote repository
+	.	touch (filename) : creates a new file with the required   
+       name
+	.	vim (filename): allows editing of the selected file 
+	.	git branch branch name: creates a new branch
+	.	git checkout branch name: change to selected branch
+	.	ls: shows the file currently in the repository 
+	.	git merge branch name: merges the selected branch with
+       the master branch  
