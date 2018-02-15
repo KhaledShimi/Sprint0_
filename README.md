@@ -1,4 +1,4 @@
-Project title:Sprint 0
+# Project title:Sprint 0
 
 Getting Started: This repository contains a folder that contains 3 text files. The first text file titled getting started explains the basics on how to operate git and gives a brief explanation about what is version control.
 
@@ -10,4 +10,3 @@ Author: Khaled Elshimi 37-6529
 
 Acknowledgments: (book Chacon, Scott, and Ben Straub. Pro Git. Apress,
 2014.).
-# Sprint0-TeamTask
